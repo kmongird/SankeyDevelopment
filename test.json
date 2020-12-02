@@ -23,14 +23,14 @@
                     "width": 0.5
                 },
                 "label": [
-                    "One",
-                    "two",
-                    "three",
-                    "four",
-                    "five",
-                    "six",
-                    "seven",
-                    "eight",
+                    "Agricultural 'waste'",
+                    "Bio-conversion",
+                    "Liquid",
+                    "Losses",
+                    "Solid",
+                    "Gas",
+                    "Biofuel imports",
+                    "Biomass imports",
                     "Coal imports",
                     "Coal",
                     "Coal reserves",
@@ -491,7 +491,7 @@
             }
         }],
     "layout": {
-        "title": {"text": "Energy-Water Sankey<br>Imperfect copy of <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"},
+        "title": {"text": "Energy forecast for 2050, UK — Department of Energy & Climate Change<br>Imperfect copy of <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"},
         "width": 1118,
         "height": 772,
         "font": {
