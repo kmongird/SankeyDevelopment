@@ -23,14 +23,14 @@
                     "width": 0.5
                 },
                 "label": [
-                    "",
-                    "Petroleum",
-                    "Biomass",
-                    "Natural Gas",
-                    "Coal",
-                    "Gas",
-                    "Biofuel imports",
-                    "Biomass imports",
+                    "One",  #one
+                    "two",
+                    "three",
+                    "four",
+                    "five",
+                    "six",
+                    "seven",
+                    "eight",
                     "Coal imports",
                     "Coal",
                     "Coal reserves",
